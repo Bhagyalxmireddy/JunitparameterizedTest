@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.junittest.AirthematicTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-10-06T08:21:10" hostname="DESKTOP-25DPEJS" time="0.04">
+  <properties/>
+  <testcase name="testAirthematicTest[0]" classname="com.junittest.AirthematicTest" time="0.038"/>
+  <testcase name="testAirthematicTest[1]" classname="com.junittest.AirthematicTest" time="0.0"/>
+  <testcase name="testAirthematicTest[2]" classname="com.junittest.AirthematicTest" time="0.0"/>
+  <system-out><![CDATA[sum of Numbers = : 3
+sum of Numbers = : 33
+sum of Numbers = : 333
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
